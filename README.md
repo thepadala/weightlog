@@ -1,5 +1,5 @@
 ---
-Title: Food and Weight Log
+title: Food and Weight Log
 ---
 
 Starting Weight - 121 kg (2025-11-10)
